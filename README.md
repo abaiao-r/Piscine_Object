@@ -10,6 +10,6 @@ Here are the links to acess each Piscine_Object Modules repository! This reposit
 - [Module 02 - UML](https://github.com/abaiao-r/Module_02-_UML)
 - [Module 03 - SOLID](https://github.com/abaiao-r/Module_03_SOLID)
 - [Module 04 - DESIGN PATTERN](https://github.com/abaiao-r/Module_04_DESIGN_PATTERN)
-- [Module 05 - DESIGN PATTERN](https://github.com/abaiao-r/Module_04_DESIGN_PATTERN)
+- [Module 05 - Train yourself](https://github.com/abaiao-r/Module_05_Train_yourself)
 
 
