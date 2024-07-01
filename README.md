@@ -6,5 +6,9 @@ Here are the links to acess each Piscine_Object Modules repository! This reposit
 ## Table of Contents
 
 - [Module 00 - Encapsulation](https://github.com/abaiao-r/Module_00_Encapsulation)
+- [Module 01 - Relationship](https://github.com/abaiao-r/Module_01_Relationship)
+- [Module 02 - Encapsulation](https://github.com/abaiao-r/Module_00_Encapsulation)
+- [Module 03 - Encapsulation](https://github.com/abaiao-r/Module_00_Encapsulation)
+- [Module 04 - Encapsulation](https://github.com/abaiao-r/Module_00_Encapsulation)
 
 
